@@ -51,3 +51,61 @@ table {
 
 
 /* Write your css below here */
+
+.bg-primary {
+	background-color: #e23c3c !important;
+}
+
+.text-primary {
+	color: #e23c3c !important;
+}
+
+.bg-secondary {
+	background-color: #f4f5f4 !important;
+}
+
+.btn-primary {
+	background-color: #e23c3c !important;
+	border: none;
+	outline: none;
+}
+
+.navbar-brand img {
+	width: 197px;
+	height: 33px;
+}
+
+.nav-link {
+	color: white;
+}
+
+.form-title {
+	height: 35px;
+}
+
+.ht {
+	height: 38px;
+}
+
+form {
+	position: relative !important;
+}
+
+.button-div {
+	position: absolute !important;
+	right: 0 !important;
+	margin-bottom: 5px;
+}
+
+.form-bottom {
+	margin-top: 70px;
+}
+.form-bottom-primary {
+	margin-top: 7px;
+	opacity: 0.5;
+	height: 100px;
+}
+
+/* .form-check {
+	padding-left: 410px;
+} */
