@@ -94,6 +94,7 @@ form {
 .button-div {
 	position: absolute !important;
 	right: 0 !important;
+	margin-bottom: 5px;
 }
 
 .form-bottom {
@@ -102,6 +103,7 @@ form {
 .form-bottom-primary {
 	margin-top: 7px;
 	opacity: 0.5;
+	height: 100px;
 }
 
 /* .form-check {
